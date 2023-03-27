@@ -3,12 +3,12 @@ entries:
   grafana-chart:
   - apiVersion: v2
     appVersion: "9.0"
-    created: "2023-03-27T18:53:23.391126984+05:30"
+    created: "2023-03-27T19:06:46.897548113+05:30"
     description: A Helm chart for Grafana
-    digest: 2074f1ec9e9bf2378fb3febde99acddd572a765fc4d2c813bd45ea1b42aa4b8b
+    digest: 8f496a02ad43f0f79d3df85b250d4bdb304458c60c7a7c4ecf8df51e8c5fb99d
     name: grafana-chart
     type: application
     urls:
     - https://ironic-cyborg.github.io/influxdb2-chart/grafana-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-27T18:53:23.390682428+05:30"
+generated: "2023-03-27T19:06:46.897136862+05:30"
